@@ -42,7 +42,7 @@ I work as Red Team(contractor) for some of the best Model providers in the world
 
 ### 📫 Reach Me
 - 🌐 Website: [your-website.com](https://million-in.github.io)  
-- 💬 Discord: `https://discord.com/channels/@kezamilindi`  
+- 💬 Discord: `@kezamilindi`  
 - 🐙 GitHub: [@million-in](https://github.com/million-in)  
 
 ---
